@@ -49,5 +49,11 @@ node_modules/
 package-lock.json
 flutter/
 
+# Android build cache
+.gradle/
+android/.gradle/
+android/build/
+android/app/build/
+
 # Widget Preview related
 .widget_preview/
