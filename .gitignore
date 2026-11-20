@@ -47,6 +47,7 @@ app.*.map.json
 # Node related
 node_modules/
 package-lock.json
+flutter/
 
 # Widget Preview related
 .widget_preview/
